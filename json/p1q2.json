@@ -1,0 +1,10 @@
+{
+   "text":"Какие модификаторы доступа есть в C#?",
+   "type":1,
+   "answers":{
+      "private":1,
+      "protected internal":1,
+      "public":1,
+      "open":0
+   }
+}

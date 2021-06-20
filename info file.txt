@@ -1,0 +1,12 @@
+https://i.ibb.co/8mfZz5P/auth.png auth
+https://i.ibb.co/3MVtbV6/company.png company
+https://i.ibb.co/6J3x3tB/igra.png game
+https://i.ibb.co/Zzpt9Xs/rewards.png rewards
+https://i.ibb.co/tXQ6vy5/tablet.png tablet
+https://i.ibb.co/W62V8Dz/archive.png archive 
+https://i.ibb.co/9VnJSRN/background.png bg
+https://i.ibb.co/8MsTZpz/1.png dark bg
+https://i.ibb.co/y401t4W/backheaderr.png back header
+https://i.ibb.co/F42ZdqL/branching.png branching
+https://i.ibb.co/5x1kLft/math-functions.png math functions
+https://i.ibb.co/8rBGxBK/var.png var
